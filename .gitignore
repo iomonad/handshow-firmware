@@ -2,3 +2,4 @@
 *.hex
 *.a
 out/
+/*.bin
